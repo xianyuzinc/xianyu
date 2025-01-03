@@ -1,1 +1,29 @@
+# 主题配置
 theme: minima
+
+# 博客基本信息
+title: 欢迎来到我的博客
+author: 你的名字
+description: 这是我的个人博客，分享我的想法、项目和生活点滴。
+
+# 社交链接
+social_links:
+  github: https://github.com/你的用户名
+  linkedin: https://linkedin.com/in/你的用户名
+
+# 其他配置
+email: 你的邮箱
+url: "https://你的用户名.github.io" # 你的GitHub Pages URL
+baseurl: "" # 如果你的博客在子目录中，设置为子目录路径
+
+# Markdown 配置
+markdown: kramdown
+highlighter: rouge
+
+# 语言设置
+lang: zh-CN
+
+# 其他自定义配置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
