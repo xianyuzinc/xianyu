@@ -8,12 +8,12 @@ description: 这是我的个人博客，分享我的想法、项目和生活点�
 
 # 社交链接
 social_links:
-  github: https://github.com/你的用户名
+  github: https://github.com/xianyuzinc
   linkedin: https://linkedin.com/in/你的用户名
 
 # 其他配置
 email: 你的邮箱
-url: "https://你的用户名.github.io" # 你的GitHub Pages URL
+url: "https://xianyuzinc.github.io" # 你的GitHub Pages URL
 baseurl: "" # 如果你的博客在子目录中，设置为子目录路径
 
 # Markdown 配置
